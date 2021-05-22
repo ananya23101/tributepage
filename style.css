@@ -1,5 +1,6 @@
 *{
    align-items: center;
+   overflow-x: hidden;
 }
 #title{
     color:rgb(27, 27, 27);
@@ -79,5 +80,6 @@ text-align: center;
     .cool{
         text-align: center;
         margin: 0%;
+        width: 100%;
     }
 }
